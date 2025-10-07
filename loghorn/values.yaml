@@ -1,0 +1,3 @@
+defaultSettings:
+  defaultDataPath: "/home/sown/volumes"
+  replicaCount: 3
